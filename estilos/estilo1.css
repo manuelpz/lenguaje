@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana; 
+}
+h1 {font-size: 2em;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+}
+h2{
+    background-color: darkkhaki;
+    font-size: 1,5em;
+}
+
+h3{
+    background-color:rgba(129, 128, 111, 0.753);
+    color:aliceblue;
+    font-size: 1,3em;
+}
+blockquote{
+    font-style: italic;
+}
+p{
+    text-align: justify;
+}
+pre{
+    background-color: whitesmoke;
+    font-size: 1em;
+    font-weight: bold;
+}
+address{
+    font-family: arial;
+    font-style: normal;
+    text-align: right;
+}

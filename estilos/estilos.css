@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{
+    background-color: #FFEACC;
+    font-family: sans-serif;
+}
+h1{
+    color:brown;
+    text-transform: uppercase;
+    font-family:"Indie Flower";
+}
+p{
+    font-family: sans-serif;
+    font-size: 150%;
+}
+.intro{
+    color:orange;
+}
+.impar{
+    background-color: pink;
+}
+.par{
+    background-color: white;
+}
+summary{
+    font-size: 300%;
+}

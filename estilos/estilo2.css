@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    text-align:justify ;
+}
+h1{
+    color:coral;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    color:crimson;
+    background-color:darksalmon;
+    text-decoration: underline;
+    font-size: 2rem;
+}
+strong{
+    color:cornflowerblue;
+    font-weight: normal;
+}
+em{
+    color: blue;
+    font-style:initial;
+    font-weight: bold;
+}
+p{
+    background-color:bisque ;
+}
+h3{
+    color:darkred;
+    font-size: 1,5rem;
+    background-color:darkkhaki;
+    font-style: italic;
+}
+address{
+    background-color: aliceblue;
+    font-weight: bold;
+    text-align: right;
+}

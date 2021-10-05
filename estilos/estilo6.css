@@ -1,0 +1,30 @@
+body{
+    background-color: #2D8652;
+    font-family: Verdana;
+}
+h1{
+    font-size: 3em;
+    text-transform: capitalize;
+}
+p{
+    font-size: 1.5em;
+}
+.infancia{
+    color:antiquewhite;
+    font-family:courier;
+    font-style: italic;
+}
+.animales{
+    color: orange;
+    font-family: monospace;
+}
+.literatura{
+    color:brown;
+    font-family: "Times New Roman";
+
+}
+.numeros{
+    color: red;
+    font-family:'Gill Sans';
+
+}

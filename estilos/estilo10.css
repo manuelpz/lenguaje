@@ -1,0 +1,12 @@
+@font-face {
+    font-family:"Ribeye";
+    src: url(ribeye-marrow.woff2);
+    }
+@font-face {
+    font-family:"another";
+    src: url(just-another-hand.woff2);
+}
+@font-face {
+    font-family:"lobster";
+    src: url(lobster.woff2);
+}
