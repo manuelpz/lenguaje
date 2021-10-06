@@ -10,3 +10,39 @@
     font-family:"lobster";
     src: url(lobster.woff2);
 }
+
+body{
+    background-color: #cbac4d;
+}
+h1{
+    font-family: Ribeye;
+    font-size: 2.5em;
+    letter-spacing: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.intro{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: sans-serif;
+    line-height: 175%;
+    text-align: justify;
+}
+cite{
+    text-decoration: underline;
+    
+}
+.latin{
+    margin: 0px;
+    font-family: "lobster";
+    font-size: 2em;
+    
+}
+.espanol{
+    margin:0px;
+    color: white;
+    font-family: "another";
+    font-size: 2.5em;
+    letter-spacing: 1px;
+    text-align: right;
+}
