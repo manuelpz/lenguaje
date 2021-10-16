@@ -1,0 +1,42 @@
+body{
+ background-color: #D3D3D3;
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Helvetica;
+}
+
+h2{
+    font-size: 25px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: #808080;
+}
+
+img{
+    float:left;
+    width: 90px;
+    height: 125px;
+    margin-right:10px ;
+    margin-left: 80px;
+    
+}
+
+strong{
+    background-color: white;
+
+}
+
+em{
+    color:red;
+    font-weight: bold;
+}
+
+p{
+    text-indent: 30px;
+}
