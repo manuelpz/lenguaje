@@ -1,0 +1,40 @@
+*{
+    background-color: lightblue;
+    font-size: 12px;
+}
+
+h1, p, .song-lyrics{
+    border: 5px solid orange;
+
+}
+
+h1{
+    font-size: 30px;
+
+}
+h2{
+    font-size: 1.5em;
+    color:green;
+}
+
+p{
+    color: violet;
+    font-family: Helvetica, sans-serif;
+}
+
+#rabbits-info-heading{
+    background-color: rgb(71, 1, 71);
+}
+
+#rabbits-info{
+    color:rgb(104, 0, 104);
+    font-weight: bold;
+}
+
+.song-lyrics{
+    color:rgb(104, 0, 104);
+    font-family: fantasy;
+    font-size: 13px;
+    font-style: italic;
+    background-color: yellow;
+}
