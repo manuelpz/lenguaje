@@ -1,0 +1,87 @@
+@font-face{
+    font-family: "sigmar";
+    src: url("sigmar-one.woff");
+}
+
+body{
+    background-color: #E9F2FB;
+    text-align: left;
+}
+
+h1{
+    font-family: sigmar;
+    text-align: center;
+}
+
+h2{
+    font-family: sigmar;
+    color:lightblue;
+    text-shadow: 2px 2px black;
+    clear:both;
+}
+
+time{
+    color: blue;
+    font-weight: bold;
+}
+
+span{
+    color:red;
+    background-color: white;
+    font-weight: bold;
+}
+
+img{
+    border:5px solid #7A99B8;
+    padding:5px;
+}
+
+.perro1{
+    float:left;
+    margin-right: 10px;
+    margin-bottom:10px;
+}
+
+.perro2{
+    float:right;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+
+.perro3{
+    float: left;
+    margin-left: 50px;
+    
+}
+
+.izquierda{
+    float:left;
+    width: 40%;
+}
+
+.derecha{
+    float: left;
+    width: 40%;
+    margin-left:50px;
+    
+}
+
+address{
+    clear:both;
+}
+
+hr{
+    background-color: lightblue;
+    width: 75%;
+    height: 5px;
+    clear:both;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+strong{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+

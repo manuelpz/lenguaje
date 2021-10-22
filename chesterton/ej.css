@@ -1,0 +1,57 @@
+body{
+    margin: 10px;
+    background-color: rgb(143, 100, 85);
+    font-family: Arial;
+    font-size: 1em;
+    text-align: left;
+}
+
+header{
+    padding: 30px;
+    background-color: #9D847B;
+}
+h1{
+    margin: 10px;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+main{
+    display: block;
+    border:3px solid white;
+    padding: 5px;
+}
+
+section{
+    padding-bottom: 20px;
+    background-color:#997366 ;
+}
+
+section + section{
+    margin-top: 30px;
+}
+
+h2{
+    
+    padding-left:20px;
+    background-color: white;
+    margin-top: 1px;
+}
+
+section p{
+    border: 8px solid #422B24;
+    margin: 10px;
+    margin-left: 80px;
+    padding:10px;
+    color: white;
+    line-height: 30px;
+}
+
+footer{
+    border-top: 5px solid brown;
+    margin:10px;
+    padding: 10px;
+    background-color:antiquewhite;
+    font-size:10px;
+    
+}
