@@ -1,0 +1,90 @@
+@font-face {
+    font-family: playball;
+    src: url(playball.woff);
+}
+
+body{
+    margin:10px;
+    background-color: bisque;
+    font-family: playball;
+    font-size: 1em;
+    text-align: left;
+
+}
+
+header{
+    background-color: orangered;
+    color:white;
+}
+
+h1{
+    margin: 10px;
+    padding: 5px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+main{
+    display: inline-block;
+    border-left: 20px;
+    border-right: 20px;
+    margin: 10px;
+    padding: 5px;
+}
+
+article{
+    clear: both;
+}
+
+.siglo{
+    overflow: auto;
+    margin:10px;
+    padding-bottom: 15px;
+    background-color: lightsalmon;
+}
+h2 {
+    margin:5px;
+    padding-bottom: 5px;
+    background-color: lightskyblue;
+    color:black;
+}
+
+h3{
+    margin:25px;
+    padding-bottom: 5px;
+    background-color: coral;
+    color:royalblue;
+}
+article.siglo article{
+    overflow:auto;
+    margin:25px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+
+article article p{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+aside{
+    float: right;
+    border-left: 2px solid black;
+    padding: 15px;
+}
+
+aside p{
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+}
+
+footer{
+    background-color: orangered;
+    color:midnightblue;
+}
+
+footer p{
+    margin:5px;
+    padding:5px;
+}
