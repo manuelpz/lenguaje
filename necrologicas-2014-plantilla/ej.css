@@ -8,49 +8,67 @@
 }
 
 body{
-
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    text-align: left;
 }
 
 h1{
-
+    margin: 10px;
+    color: red;
+    font-family: cabin;
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 h2{
-
+    margin: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    color:black;
+    font-family: gabriela;
+    font-size: 1.5em;
 }
 
 div{
-
+    padding:3px;
 }
 
 p{
-
+    margin:10px
 }
 
 div.vida{
-    
+    margin:15px;
 }
 
 article.futbol{
-
+    border: 3px solid green;
+    margin: 15px;
+    background-color: lightgreen;
 }
 
 article.futbol h2{
-
+    border-top-right-radius: 15px;  
+    background-color:aquamarine;
 }
 
 article.futbol div.datos{
-
+    background-color:burlywood;
 }
 
 article.literatura{
-
+    border: 3px solid greenyellow;
+    margin: 15px;
+    background-color:aqua;
 }
 
 article.literatura h2{
-
+    border-top-right-radius: 15px;  
+    background-color:yellow;
 }
 
 article.literatura div.datos{
-    
+    background-color: violet;
 }
